@@ -25,14 +25,3 @@ I'm a Higher Technician in Automation and Industrial Computing<br>Master's stude
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Set env variable PAT_1 with your github token in vercel -->
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=L3Skon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
