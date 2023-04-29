@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Higher Technician in Automation and Industrial Computing<br>Master's student in Advanced Robotics and Artificial Intelligence
+👋 Hi there! I'm Skander Andolsi, a Higher Technician in Automation and Industrial Computing and a Master's student in Advanced Robotics and Artificial Intelligence. I'm passionate about the intersection of robotics and AI, and I'm currently exploring topics like reinforcement learning and computer vision.
+
+👨‍💻 In my free time, I enjoy coding and contributing to open source projects.
 
 
 ## 🌐 Socials:
