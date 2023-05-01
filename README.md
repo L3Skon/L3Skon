@@ -19,3 +19,5 @@
 [![](https://visitcount.itsvg.in/api?id=L3Skon&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=L3Skon&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
